@@ -1,4 +1,4 @@
-[model weights](https://drive.google.com/drive/folders/1zm2v6JbL3GACy7GA7qeZppb0uq_tpsDd?usp=sharing)
+Final project of evolutionary calculation, lectured by Ying-Ping Chen. NYCU 2023 Fall.
 
 See main.py for example of usage.
 
